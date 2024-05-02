@@ -8,5 +8,4 @@ public class BrokenWall : MonoBehaviour, IDestructable
     {
         Destroy(gameObject);
     }
-
 }
